@@ -3,7 +3,7 @@ einops
 nltk
 accelerate>=0.18.0
 tabulate
-transformers>=4.26.0
+transformers>=4.31.0
 statsmodels
 tiktoken>=0.3.2
 markdown
